@@ -1,4 +1,4 @@
-# OLA Ride-Hailing Data Analysis 🚕📈
+# OLA Data Analysis🚕📈
 
 This project analyzes ride-hailing operational data to observe demand patterns, driver performance, customer behavior, revenue trends, and cancellation metrics. The insights help improve fleet allocation, dynamic pricing, and user experience.
 
